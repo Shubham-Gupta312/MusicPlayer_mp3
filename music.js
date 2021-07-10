@@ -21,7 +21,7 @@ const PlayList = [
     {
         name: "Shub4",
         title: "Namo Namo",
-        artist: "sara ali khan"
+        artist: "Amit Trivedi"
     },
     {
         name: "Shub32",
